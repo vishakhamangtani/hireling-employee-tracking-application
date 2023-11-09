@@ -17,7 +17,7 @@ This Android app is designed to streamline employee attendance tracking and leav
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/YourUsername/YourAndroidProject.git](https://github.com/vishakhamangtani/hireling-employee-tracking-application)
+   git clone https://github.com/vishakhamangtani/hireling-employee-tracking-application
    
 
 ## Usage
