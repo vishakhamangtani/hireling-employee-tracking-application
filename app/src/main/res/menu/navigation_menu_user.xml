@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="hardcodedText">
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/myaccount"
+        android:title="My Account" />
+    <item
+        android:id="@+id/nav_Attendance"
+        android:icon="@drawable/attendance"
+        android:title="View Attendance" />
+
+    <item
+        android:id="@+id/nav_Leaves"
+        android:icon="@drawable/leave"
+        android:title="Apply for a Leave" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/setting"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Logout" />
+
+</menu>
